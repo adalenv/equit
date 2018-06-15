@@ -1,0 +1,58 @@
+
+
+	
+table {
+	width:100%;
+}
+table td {
+	padding:5px;
+}
+
+
+
+/**umb_name:Heading 2 (h2)*/
+h2{font-size:26px;}
+
+/**umb_name:Heading 3 (h3)*/
+h3{font-size:22px;}
+
+/**umb_name:Heading 4 (h4)*/
+h4{font-size:18px;}
+
+/**umb_name:Heading 5 (h5)*/
+h5{font-size:16px;}
+
+/**umb_name:Introduction paragraph*/
+.intro{font-size:16px;}
+
+
+
+/**umb_name:Go To Top*/
+.GoToTop{}
+
+/**umb_name:Go to bottom*/
+.GoToBottom{}
+
+/**umb_name:btn*/
+.btn{}
+
+/**umb_name:btn-default*/
+.btn-default{}
+
+/**umb_name:btn-grdt*/
+.grdt-primary{}
+
+/**umb_name:Color Primary*/
+.ColorPrimary{color:#00b0ac;}
+
+/**umb_name:Font Size Medium*/
+.FontSizeMedium{font-size:18px;}
+
+/**umb_name:Red Color*/
+.RedColor{color:red;}
+
+/**umb_name:Green Color*/
+.GreenColor{color:green;}
+
+/**umb_name:Font Size Small*/
+.FontSizeSmall{font-size:12px;}

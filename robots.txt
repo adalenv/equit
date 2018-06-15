@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: */umbraco/
+Disallow: */umbraco_Client/
+Disallow: */research-tools/economic-calendar/event
+Sitemap: http://www.equiti.com/sitemap.xml
