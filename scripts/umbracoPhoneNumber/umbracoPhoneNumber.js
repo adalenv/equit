@@ -14,7 +14,7 @@
             nationalMode: false,
             autoPlaceholder: "polite",
             preferredCountries: ["gb", "ae", "sa", "cn", "ru", "sp", "it", "pl"],
-            utilsScript: "/bower_components/intl-tel-input/build/js/utils.js",
+            utilsScript: "bower_components/intl-tel-input/build/js/utils.js",
             customPlaceholder: function (selectedCountryPlaceholder, selectedCountryData) {
                 return "Phone number";
             }

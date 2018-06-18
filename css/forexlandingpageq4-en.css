@@ -9704,7 +9704,7 @@ body {
 }
 
 body {
-  background: url(http://www.equiti.com/images/body-bg.png) left 100vh no-repeat;
+  /*background: url(images/body-bg.png) left 100vh no-repeat;*/
   font-family: myriad-text, Sans-Serif;
   font-size: 16px;
   text-rendering: auto;
@@ -9908,7 +9908,7 @@ a:hover {
 
 .input-label-nao {
   position: absolute;
-  bottom: 0;
+  /*bottom: 0;*/
   left: 0;
   margin: 0;
   padding: 0 7px;
